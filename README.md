@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Arwa 👋
 
-<!--
-**af854/af854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MEng Engineering student at the University of Cambridge, specialising in mechanical, information and computer engineering.
 
-Here are some ideas to get you started:
+I like building things that sit somewhere between **software, physical systems, and design** — especially when there is a real-world engineering problem behind them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+* Developing a GUI for a new medical imaging technique used to analyse microvascular blood flow in the human eye
+* Exploring finite element methods and high-performance computing through FEniCSx
+
+## Experience
+
+* **Research Intern at the University of Cambridge**
+  Working with the Wells research group on improving FEniCSx for finite element simulations on GPUs.
+
+* **Software Engineering Intern at Autodesk**
+  Worked on Autodesk ShapeManager, the geometric modelling kernel behind tools like Fusion and Inventor. My project involved improving 3D body outlining by fitting curves to projected polylines in C++.
+
+* **Electrical Engineering Intern at Arup**
+  Worked on building services projects across hospitals, universities and datacentres, including cable schedules, containment layouts, lighting simulations and sustainable energy feasibility work.
+
+## Tools & languages
+
+`Python` `C++` `MATLAB` `Simulink` `Git` `SolidWorks` `Autodesk Fusion` `Visual Studio`
+
+## Elsewhere
+
+* [LinkedIn](https://www.linkedin.com/in/arwafathy)
+* [ResearchGate](https://www.researchgate.net/profile/Arwa-Fathy)
