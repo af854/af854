@@ -2,11 +2,11 @@
 
 I'm an MEng Engineering student at the University of Cambridge, specialising in mechanical, information and computer engineering.
 
-I like building things that sit somewhere between **software, physical systems, and design** — especially when there is a real-world engineering problem behind them.
+I like building things that sit somewhere between **software, physical systems, and design**.
 
 ## What I'm working on
 
-* Developing a GUI for a new medical imaging technique used to analyse microvascular blood flow in the human eye
+* Developing a GUI for a new medical imaging technique used to analyse microvascular blood flow in human eyes
 * Exploring finite element methods and high-performance computing through FEniCSx
 
 ## Experience
@@ -18,7 +18,7 @@ I like building things that sit somewhere between **software, physical systems, 
   Worked on Autodesk ShapeManager, the geometric modelling kernel behind tools like Fusion and Inventor. My project involved improving 3D body outlining by fitting curves to projected polylines in C++.
 
 * **Electrical Engineering Intern at Arup**
-  Worked on building services projects across hospitals, universities and datacentres, including cable schedules, containment layouts, lighting simulations and sustainable energy feasibility work.
+  Worked on building services projects across hospitals, universities and datacentres, including cable schedules, containment layouts, lighting simulations and sustainable energy feasibility.
 
 ## Tools & languages
 
